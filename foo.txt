@@ -1,0 +1,1015 @@
+Spawned 5
+Spawned 10
+Spawned 15
+Spawned 20
+Spawned 25
+[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+[0m[38;5;245mrunning 2 tests from ../../code/d7/tests/node_compat/test.ts[0m
+Node.js compatibility ...Node.js compatibility ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ...
+  Node.js compatibility "internet/test-dns-any.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ...  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-idna2008.js" ... [0m[32mok[0m [0m[38;5;245m(898ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(897ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(993ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(925ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(909ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(907ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(934ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(935ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(934ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(940ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(964ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(965ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(803ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(875ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(927ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(907ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(946ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(993ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(955ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(975ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ...  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(900ms)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-ipv4.js" ... [0m[32mok[0m [0m[38;5;245m(929ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(958ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(930ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(969ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(960ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(984ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(943ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(960ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(959ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(843ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(913ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ...  Node.js compatibility "internet/test-dns-ipv6.js" ...  Node.js compatibility "internet/test-dns-ipv6.js" ...  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(920ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(954ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(927ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ...  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(993ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(969ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(969ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(970ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ...  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(980ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(970ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(982ms)[0m
+  Node.js compatibility "internet/test-dns-ipv6.js" ... [0m[32mok[0m [0m[38;5;245m(968ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(942ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(914ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(960ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(973ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(931ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(904ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(849ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(916ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(926ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(955ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(898ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(984ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(923ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(895ms)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(967ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(979ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-lookup.js" ...  Node.js compatibility "internet/test-dns-lookup.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ...  Node.js compatibility "internet/test-dns-promises-resolve.js" ...  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ...  Node.js compatibility "internet/test-dns-promises-resolve.js" ...  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ...  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ...  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ...  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-promises-resolve.js" ... [0m[32mok[0m [0m[38;5;245m(750ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(799ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(758ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(837ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(840ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(862ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(862ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(870ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(870ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(937ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(905ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(890ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(884ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(847ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(874ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(818ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(830ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(831ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(931ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(862ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(823ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(851ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ...  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(853ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(824ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(801ms)[0m
+  Node.js compatibility "internet/test-dns-regress-6244.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ...  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ...  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ...  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ... [0m[32mok[0m [0m[38;5;245m(742ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(735ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(846ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(850ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(820ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(850ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(851ms)[0m
+  Node.js compatibility "internet/test-dns.js" ...  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(900ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(926ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(809ms)[0m
+  Node.js compatibility "internet/test-dns.js" ...  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(853ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(791ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(831ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(808ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(818ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(815ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(889ms)[0m
+  Node.js compatibility "internet/test-dns.js" ...  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(840ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(894ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(881ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(839ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(805ms)[0m
+  Node.js compatibility "internet/test-dns.js" ...  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(810ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(806ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ...  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ...  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ...  Node.js compatibility "internet/test-http-https-default-ports.js" ...  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ...  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ...  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ...  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(911ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(915ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(953ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(975ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(990ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(982ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ...  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ...  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(994ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(980ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(986ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ...  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ...  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(997ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(903ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(905ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ...  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(824ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(797ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ...  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(792ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(830ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(774ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(946ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(849ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(849ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(857ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ...  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(883ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(822ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(864ms)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(566ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(599ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(538ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ...  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(556ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(556ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ...  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(558ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(565ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(622ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(673ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(592ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ...  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(538ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(634ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(593ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ...  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(658ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(628ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(632ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(668ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(639ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(687ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(632ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ...  Node.js compatibility "pseudo-tty/console_colors.js" ...  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(667ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(668ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(693ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(716ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(830ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(897ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(874ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ...  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(851ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(878ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(906ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(870ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(815ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(834ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(788ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(880ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(858ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(937ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(900ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(880ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(918ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(878ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(800ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(870ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(882ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(860ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(569ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(574ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ...  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(627ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(970ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(896ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(593ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ...  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(854ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+ [0m[32mok[0m [0m[38;5;245m(584ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(607ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(634ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(660ms)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ...  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ...  Node.js compatibility "internet/test-dns-setserver-in-callback-of-resolve4.js" ...  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ...  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(551ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(675ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(680ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(754ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ...  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(712ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(684ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(708ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(731ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(695ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(670ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(696ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(746ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(678ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ...  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(718ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(691ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(662ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(771ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(666ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(711ms)[0m
+  Node.js compatibility "pseudo-tty/no_interleaved_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(704ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(733ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(740ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(719ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(674ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(774ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(806ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(787ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(700ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(763ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(763ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(702ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(993ms)[0m
+  Node.js compatibility "internet/test-dns.js" ... [0m[32mok[0m [0m[38;5;245m(675ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(694ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(673ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(682ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(724ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(677ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ... [0m[32mok[0m [0m[38;5;245m(689ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(735ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(652ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(669ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(684ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(703ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(703ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(727ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(664ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(787ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning-2.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(670ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(789ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(710ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(735ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(799ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(725ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(835ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(784ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(707ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(653ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(659ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(685ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(672ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(703ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(669ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(671ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(672ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(677ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(591ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(604ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(686ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(628ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(630ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(747ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-color-support-warning.js" ... [0m[32mok[0m [0m[38;5;245m(692ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(636ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(823ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(745ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(694ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(668ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(671ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(743ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(646ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(689ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "internet/test-http-https-default-ports.js" ... [0m[32mok[0m [0m[38;5;245m(693ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(731ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(655ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(677ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(682ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(662ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(663ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(713ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(713ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(657ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(693ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdin-end.js" ... [0m[32mok[0m [0m[38;5;245m(726ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(726ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(777ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(706ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(704ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(707ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(772ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(725ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(767ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(726ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(684ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(705ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(737ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(714ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(682ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(705ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(713ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(709ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(679ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(699ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "sequential/test-child-process-exit.js" ...  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(606ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(732ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(720ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ...  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(743ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(720ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(704ms)[0m
+  Node.js compatibility "pseudo-tty/test-tty-stdout-end.js" ... [0m[32mok[0m [0m[38;5;245m(734ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ...  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(664ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(666ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ...  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(752ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(681ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ...  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "pseudo-tty/console-dumb-tty.js" ... [0m[32mok[0m [0m[38;5;245m(734ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(730ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(733ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(776ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ...  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(754ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(821ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(806ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(806ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(857ms)[0m
+ [0m[32mok[0m [0m[38;5;245m(857ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ...  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(824ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(868ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(894ms)[0m
+  Node.js compatibility "sequential/test-child-process-exit.js" ... [0m[32mok[0m [0m[38;5;245m(904ms)[0m
+  Node.js compatibility "pseudo-tty/console_colors.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+ [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ...  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(1s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(3s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(3s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(3s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(3s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+ [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ...  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "pseudo-tty/no_dropped_stdio.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(6s)[0m
+  Node.js compatibility "parallel/test-bad-unicode.js" ... [0m[32mok[0m [0m[38;5;245m(3s)[0m
+  Node.js compatibility "parallel/test-buffer-badhex.js" ... [0m[32mok[0m [0m[38;5;245m(3s)[0m
+  Node.js compatibility "parallel/test-buffer-ascii.js" ... [0m[32mok[0m [0m[38;5;245m(3s)[0m
+  Node.js compatibility "parallel/test-assert-strict-exists.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-btoa-atob.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-assert-fail.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-buffer-compare-offset.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-buffer-arraybuffer.js" ... [0m[32mok[0m [0m[38;5;245m(6s)[0m
+  Node.js compatibility "parallel/test-buffer-inheritance.js" ... [0m[32mok[0m [0m[38;5;245m(7s)[0m
+  Node.js compatibility "parallel/test-buffer-ascii.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-assert-strict-exists.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-buffer-badhex.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-bad-unicode.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-buffer-fakes.js" ... [0m[32mok[0m [0m[38;5;245m(8s)[0m
+  Node.js compatibility "parallel/test-assert-async.js" ... [0m[32mok[0m [0m[38;5;245m(8s)[0m
+  Node.js compatibility "parallel/test-bad-unicode.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-buffer-badhex.js" ... [0m[32mok[0m [0m[38;5;245m(4s)[0m
+  Node.js compatibility "parallel/test-btoa-atob.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-buffer-ascii.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-assert-strict-exists.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-buffer-alloc.js" ... [0m[32mok[0m [0m[38;5;245m(6s)[0m
+  Node.js compatibility "parallel/test-buffer-arraybuffer.js" ... [0m[32mok[0m [0m[38;5;245m(6s)[0m
+  Node.js compatibility "parallel/test-buffer-concat.js" ... [0m[32mok[0m [0m[38;5;245m(7s)[0m
+  Node.js compatibility "parallel/test-buffer-bigint64.js" ... [0m[32mok[0m [0m[38;5;245m(7s)[0m
+  Node.js compatibility "parallel/test-buffer-isascii.js" ... [0m[32mok[0m [0m[38;5;245m(7s)[0m
+  Node.js compatibility "parallel/test-buffer-badhex.js" ... [0m[32mok[0m [0m[38;5;245m(5s)[0m
+  Node.js compatibility "parallel/test-bad-unicode.js" ... [0m[32mok[0m [0m[38;5;245m(6s)[0m
+  Node.js compatibility "parallel/test-assert-strict-exists.js" ... [0m[32mok[0m [0m[38;5;245m(6s)[0m
+  Node.js compatibility "parallel/test-buffer-arraybuffer.js" ... [0m[32mok[0m [0m[38;5;245m(7s)[0m
+  Node.js compatibility "parallel/test-buffer-ascii.js" ... [0m[32mok[0m [0m[38;5;245m(7s)[0m
+  Node.js compatibility "parallel/test-buffer-from.js" ...
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-equals.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-failed-alloc-typed-arrays.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-fakes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-from.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-includes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-equals.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-failed-alloc-typed-arrays.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-equals.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-failed-alloc-typed-arrays.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-fakes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-equals.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-failed-alloc-typed-arrays.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-fakes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-from.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-includes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-indexof.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-inheritance.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isencoding.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isutf8.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-equals.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-failed-alloc-typed-arrays.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-fakes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-from.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-equals.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-failed-alloc-typed-arrays.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-fakes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-from.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-includes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-indexof.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-inheritance.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isencoding.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isutf8.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "pseudo-tty/no_dropped_stdio.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+
+[0m[38;5;12mSIGINT[0m The following tests were pending:
+
+Node.js compatibility [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:153:6[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-strict-exists.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-bad-unicode.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+Node.js compatibility ... Node.js compatibility "parallel/test-btoa-atob.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-indexof.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-inheritance.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isencoding.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-isutf8.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-iterator.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-new.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-ascii.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-badhex.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bytelength.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-async.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert-fail.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-assert.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-alloc.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-arraybuffer.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-bigint64.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-compare-offset.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-concat.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-constants.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-copy.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-equals.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-failed-alloc-typed-arrays.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-fakes.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+Node.js compatibility ... Node.js compatibility "parallel/test-buffer-from.js" [0m[38;5;245m=> ../d7/tests/node_compat/test.ts:58:11[0m
+
