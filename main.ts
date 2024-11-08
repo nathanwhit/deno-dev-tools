@@ -1,4 +1,6 @@
-import $, { CommandChild } from "@david/dax";
+#!/usr/bin/env deno run -A
+
+import $ from "@david/dax";
 import { pooledMap } from "@std/async";
 import { Command } from "@cliffy/command";
 import { split } from "npm:shlex";
@@ -14,7 +16,7 @@ async function runIt(test: string, args?: string[]) {
     .noThrow(true).env({ "RUST_BACKTRACE": "1" }).spawn();
   c++;
   if (c % 5 == 0) {
-    console.log("Spawned " + c);
+    // console.log("Spawned " + c);
   }
   const out = await child;
   if (out.code !== 0) {
@@ -30,15 +32,18 @@ function* seq(n: number) {
   }
 }
 
-async function consume<T>(iter: AsyncIterableIterator<T>) {
+async function consume<T>(iter: AsyncIterableIterator<T>, len: number) {
+  const pb = $.progress("Runs", { length: len });
   let i = 0;
   for await (const _ of iter) {
+    pb.increment();
     i++;
-    if (i % 5 === 0) {
-      console.log("On run " + i);
-    }
+    // if (i % 5 === 0) {
+    //   console.log("On run " + i);
+    // }
     // do nothing
   }
+  pb.finish();
 }
 
 async function pooled<T>(
@@ -47,7 +52,7 @@ async function pooled<T>(
   fn: () => Promise<T>,
 ) {
   const iter = pooledMap(concurrencyLimit, seq(n), fn);
-  await consume(iter);
+  await consume(iter, n);
 }
 
 async function main() {
