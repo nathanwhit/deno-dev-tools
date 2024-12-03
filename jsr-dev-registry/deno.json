@@ -1,0 +1,9 @@
+{
+  "name": "@nathan/jsr-dev-registry",
+  "version": "0.1.0",
+  "exports": "./main.ts",
+  "imports": {
+    "@hono/hono": "jsr:@hono/hono@^4.6.10",
+    "@std/path": "jsr:@std/path@^1.0.8"
+  }
+}

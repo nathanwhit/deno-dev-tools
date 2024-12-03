@@ -1,5 +1,5 @@
 {
-  "name": "@nathan/dev-tools-bisect",
+  "name": "@nathan/devtools-registry",
   "exports": {
     ".": "./main.ts"
   }

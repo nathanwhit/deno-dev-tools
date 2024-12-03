@@ -1,0 +1,6 @@
+{
+  "name": "@nathan/devtools-util",
+  "exports": {
+    ".": "./mod.ts"
+  }
+}

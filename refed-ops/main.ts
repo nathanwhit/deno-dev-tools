@@ -46,12 +46,16 @@ export function findIncompleteOps(contents: string): string[] {
   return incomplete;
 }
 
+export const command = new Command().name("find-refed-ops").arguments(
+  "<logfile:string>",
+).action(
+  async (_, logFile) => {
+    const contents = await Deno.readTextFile(logFile);
+    const incomplete = findIncompleteOps(contents);
+    console.log(`Incomplete ops: ${incomplete}`);
+  },
+);
+
 if (import.meta.main) {
-  new Command().name("find-refed-ops").arguments("<logfile:string>").action(
-    async (_, logFile) => {
-      const contents = await Deno.readTextFile(logFile);
-      const incomplete = findIncompleteOps(contents);
-      console.log(`Incomplete ops: ${incomplete}`);
-    },
-  ).parse(Deno.args);
+  await command.parse(Deno.args);
 }
