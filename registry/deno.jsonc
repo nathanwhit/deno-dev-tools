@@ -1,5 +1,5 @@
 {
-  "name": "@nathan/devtools-registry",
+  "name": "@nathan/dev-tools-registry",
   "exports": {
     ".": "./main.ts"
   }

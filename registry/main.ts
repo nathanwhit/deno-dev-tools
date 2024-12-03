@@ -1,5 +1,5 @@
 import { Command } from "@cliffy/command";
-import { trimIndent2 } from "@nathan/devtools-util";
+import { trimIndent2 } from "@nathan/dev-tools-util";
 import { basename, dirname, join, SEPARATOR } from "@std/path";
 import { walk } from "@std/fs";
 

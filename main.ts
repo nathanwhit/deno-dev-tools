@@ -4,8 +4,8 @@ import { Command } from "@cliffy/command";
 import { HelpCommand } from "@cliffy/command/help";
 import { command as flaky } from "@nathan/dev-tools-flaky";
 import { command as bisect } from "@nathan/dev-tools-bisect";
-import { command as registry } from "@nathan/devtools-registry";
-import { command as findRefed } from "@nathan/unpaired-ops";
+import { command as registry } from "@nathan/dev-tools-registry";
+import { command as findRefed } from "@nathan/dev-tools-unpaired-ops";
 
 async function main() {
   await new Command()

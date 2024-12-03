@@ -1,5 +1,5 @@
 {
-  "name": "@nathan/unpaired-ops",
+  "name": "@nathan/dev-tools-unpaired-ops",
   "version": "1.0.0",
   "exports": {
     ".": "./main.ts"

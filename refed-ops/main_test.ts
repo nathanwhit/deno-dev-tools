@@ -1,6 +1,6 @@
 import { findIncompleteOps } from "./main.ts";
 import { assertEquals } from "@std/assert";
-import { trimIndent } from "@nathan/devtools-util";
+import { trimIndent } from "@nathan/dev-tools-util";
 
 function tag<TValues extends unknown[]>(
   parts: TemplateStringsArray,
