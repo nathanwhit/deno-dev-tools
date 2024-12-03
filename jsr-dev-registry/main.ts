@@ -1,6 +1,6 @@
 import { Hono } from "@hono/hono";
 import { logger } from "@hono/hono/logger";
-import * as types from "./types.ts";
+import type * as types from "./types.ts";
 import { join } from "@std/path/posix";
 
 type JsrPackageInfoVersion = {

@@ -15,7 +15,9 @@
       "./flaky",
       "./jsr-dev-registry",
       "./registry",
-      "./util"
+      "./util",
+      "./frontend"
     ]
-  }
+  },
+  "nodeModulesDir": "auto"
 }
