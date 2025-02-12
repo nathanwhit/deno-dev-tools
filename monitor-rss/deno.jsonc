@@ -1,0 +1,7 @@
+{
+  "name": "@nathan/dev-tools-monitor-rss",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./main.ts"
+  }
+}
