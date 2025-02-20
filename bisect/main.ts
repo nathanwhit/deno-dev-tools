@@ -54,11 +54,14 @@ function findCommitWith(
   commits: Commits,
   pattern: string | RegExp,
 ): string | undefined {
+  console.log("findCommitWith", pattern);
   if (typeof pattern === "string") {
     pattern.replaceAll(/\./g, "\\.");
   }
   for (const commit of commits.all) {
     if (commit.message.match(pattern)) {
+      return commit.hash;
+    } else if (commit.body.match(pattern)) {
       return commit.hash;
     }
   }
@@ -78,7 +81,11 @@ function refToMainCommit(commits: Commits, ref: Ref): string | undefined {
         return findCommitWith(
           commits,
           `forward v${versionString} release commit to main`,
-        );
+        ) ||
+          findCommitWith(
+            commits,
+            `This is the release commit being forwarded back to main for ${versionString}`,
+          );
       }
     }
     case "canary": {
