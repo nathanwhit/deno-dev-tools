@@ -124,8 +124,9 @@ const enum Result {
   SourceBad,
 }
 
-async function runScript(script: string): Promise<Result> {
-  const res = await $`deno run -A --no-lock ${script}`.noThrow();
+async function runScript(script: string, test: boolean): Promise<Result> {
+  const subcommand = test ? "test" : "run";
+  const res = await $`deno ${subcommand} -A --no-lock ${script}`.noThrow();
   if (res.code === 0) {
     return Result.Good;
   } else if (res.code === 125) {
@@ -240,8 +241,9 @@ export const command = new Command().option(
 ).option("-t, --to <to:string>", "known bad version", { required: true })
   .option("--checkout <path:string>", "path to existing deno checkout")
   .arguments("<isGoodScript:string>")
+  .option("--test", "deno test the script", { default: false })
   .action(
-    async ({ from, to, checkout }, script: string) => {
+    async ({ from, to, checkout, test }, script: string) => {
       if (checkout && !(await exists(checkout))) {
         throw new Error("bad checkout path, doesn't exist");
       } else if (checkout) {
@@ -270,7 +272,7 @@ export const command = new Command().option(
             console.error("canary build doesn't exist, skipping");
             return Satisfies.Unknown;
           }
-          const result = await runScript(script);
+          const result = await runScript(script, test);
           switch (result) {
             case Result.Good:
               return Satisfies.No;
