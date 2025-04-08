@@ -1,0 +1,12 @@
+{
+  "name": "@nathan/dev-tools-dump-deno-npm",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./main.ts"
+  },
+  "imports": {
+    "@sinclair/typebox": "npm:@sinclair/typebox@^0.34.33",
+    "@types/semver": "npm:@types/semver@^7.7.0",
+    "semver": "npm:semver@^7.7.1"
+  }
+}
